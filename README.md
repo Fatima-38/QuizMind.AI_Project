@@ -1,4 +1,4 @@
-# 🧠 QuizMind.AI_Project
+# 🧠 Quiz_Mind_AI_Project
 
 QuizMind AI is a full-stack web application that generates AI-powered multiple choice questions on Computer Science topics including DSA, OOP, DBMS, Operating Systems, and more. Built with FastAPI and React, it features instant feedback, score tracking, and bookmark functionality to help students prepare for exams effectively.
 
